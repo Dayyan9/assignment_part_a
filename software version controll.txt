@@ -1,0 +1,34 @@
+
+	                                                    Software Version Control
+	
+
+
+       Git link 
+Below here the git link to my repository can be found 
+https://github.com/Dayyan9/assignment_part_a
+
+	Git_log.txt
+
+Here below the screen shot of the updated files at my repository can be shown 
+
+
+
+
+commit 5241779094ef6e46ea14f446edd40c005a948590 (HEAD -> main, origin/main)
+Author: Dayyan <dayyan.ahmed@griffithuni.edu.au>
+Date:   Thu Aug 31 14:14:21 2023 +1000
+
+    intro updated
+
+commit 4b1bb398ffdfae4924742d5897c0cc07c7010978
+Author: Dayyan <dayyan.ahmed@griffithuni.edu.au>
+Date:   Thu Aug 31 13:58:18 2023 +1000
+
+    update
+
+commit 2c44c72892da5fff1e3766598bd3bc04073dff07
+Author: Dayyan <dayyan.ahmed@griffithuni.edu.au>
+Date:   Thu Aug 24 12:32:48 2023 +1000
+
+    initial commit
+(base) PS C:\Users\dayyan\Desktop\Griffith University\Second Year\Second semister\2810ICT Software Technologies\Assignment 1\assignment_part_a>
